@@ -1,0 +1,19 @@
+{
+	"name" : "Disputes",
+	"description" : "By enabling this, seller/buyer can send dispute about others. Admin will take final decision.",
+	"author" : "Nicolas",
+	"authorEmail" : "nicodele8@gmail.com",
+	"authorUrl" : "http://www.Nicolas.com",
+	"settings" : "true",
+	"parent": "1.Plugins For Job Module.Children",
+	"dependencies": {
+		"plugins" : {
+			"Jobs" : "Jobs"
+		}
+	},
+	"icon" : "magic",
+	"disable" : 1,
+	"delete" : 0,
+	"module_id": "627",
+	"module_hash": "678872d472fa2f1c22fac45872cb0072"
+}

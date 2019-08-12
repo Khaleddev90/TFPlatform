@@ -1,0 +1,15 @@
+{
+	"name" : "Wallet",
+	"description" : "By enabling this, users can hold the fund in site account and use it for site activities like funding projects, pay listing fee etc.,",
+	"author" : "Nicolas",
+	"authorEmail" : "nicodele8@gmail.com",
+	"authorUrl" : "http://www.Nicolas.com",
+	"settings" : "true",
+	"parent": "3.Plugins For All Modules.Children.Payments.Children",
+	"subplugin" : "Withdrawals",
+	"icon" : "money",
+	"disable" : 1,
+	"delete" : 0,
+	"module_id": "",
+	"module_hash": ""
+}

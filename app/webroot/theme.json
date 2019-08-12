@@ -1,0 +1,12 @@
+{
+	"name" : "Default",
+	"description" : "Default Theme",
+	"screenshot" : "screenshot.jpg",
+
+	"author" : "Nicolas",
+	"authorEmail" : "nicodele8@gmail.com",
+	"authorUrl" : "http://www.Nicolas.com",
+	"menus" : [
+		"footer1"
+	]
+}
