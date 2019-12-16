@@ -1,6 +1,7 @@
-# TJPlatform
+# TFPlatform
 
-TJPlatform is the fixed-price marketplace software. Ideal for micro jobs, tasks, errands, etc marketplace where consumers outsource micro tasks or sellers offer micro online and offline services.
+
+TFPlatform is the fixed-price marketplace software. Ideal for micro jobs, tasks, errands, etc marketplace where consumers outsource micro tasks or sellers offer micro online and offline services.
 
 ## Features
 
